@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "moduleResolution": "node",
+    "target": "es2018",
+    "module": "system",
+    "baseUrl": "./",
+    "rootDir": "./",
+    "inlineSourceMap": true
+  }
+}
